@@ -84,6 +84,6 @@ Where first phase takes place. Made with Tiled.
 
  Adding shadows to sprites used on Kakariko village, forest and improving map decoration and gameflow with Tiled.
  
- That's all!  
+ That's all! You can download the game [here](https://github.com/carcasanchez/ALinkBetweenAges/releases/tag/v1.5).
   
  **Contact**: fran152job@gmail.com
