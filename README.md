@@ -83,3 +83,7 @@ Where first phase takes place. Made with Tiled.
 # Art polish  
 
  Adding shadows to sprites used on Kakariko village, forest and improving map decoration and gameflow with Tiled.
+ 
+ That's all!  
+  
+ Contact: fran152job@gmail.com
