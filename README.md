@@ -86,4 +86,4 @@ Where first phase takes place. Made with Tiled.
  
  That's all!  
   
- Contact: fran152job@gmail.com
+ **Contact**: fran152job@gmail.com
