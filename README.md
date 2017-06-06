@@ -62,7 +62,7 @@ I have integrated a simple shop system where player can buy objects interacting 
 Life potions, stamina potions, bow and arrow item drops also been my task.
 Bombs item integration too, including his gameplay functionality.
 
-![](https://i.gyazo.com/20bc4c8478d2bfbbcaf4f425b21500e8.gif)  
+![](https://i.gyazo.com/70b882e17f434a8409572249f201dabf.gif)  
 
 
 # **Art**  
@@ -72,7 +72,7 @@ Bombs item integration too, including his gameplay functionality.
 
 I have performed some NPC's sprites, bomb, explosion sprites and the enemies dead sprites.
 
-![](https://i.gyazo.com/eaf8f668edaeed6beaa803320d26ca88.gif)
+![](https://i.gyazo.com/611b633cbc57d6d90a2988efb61e4b61.gif)
 
 # Boss room  
 
