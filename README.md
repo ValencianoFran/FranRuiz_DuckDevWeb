@@ -7,20 +7,18 @@ I have worked as a multidisciplinar member making the entire game design, progra
 
 # Game Design
 
- ## Gameplay  
+ GAMEPLAY  
 
 Taking hack and slash and adventure's games as a reference, We've decided to make a frenetic combat gameplay with exploration elements like items and new abilities.
 
 ![](https://i.gyazo.com/ccc1d9cd44c9eca09564c451fbbd5634.png)
-
 [Items details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Items)
 
  **Enemies**  
 
 There are six types of enemies units. Each one with different characteristics.
 
-![](https://camo.githubusercontent.com/00cef5de9457b558bffc225bf7fb5b7268f8e940/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f652f65312f426c756554656b74697465414c7474502e706e67)![](https://camo.githubusercontent.com/eae02df7ffc6cb9c7b73db76f6915b64bfdf7201/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f652f65642f4f63746f726f6b5f414c7474502e706e67)![](https://camo.githubusercontent.com/b10070120ce137abdd023b3b403c80d41bd657c6/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f382f38612f507572706c6557697a7a726f6265414c7474502e706e67)![](https://camo.githubusercontent.com/770a9b8946d7ef4a64e315a3d5b858299c3de243/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f312f31372f526564526f636b6c6f707377616c6b2e706e67)
-
+![](https://camo.githubusercontent.com/00cef5de9457b558bffc225bf7fb5b7268f8e940/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f652f65312f426c756554656b74697465414c7474502e706e67) ![](https://camo.githubusercontent.com/eae02df7ffc6cb9c7b73db76f6915b64bfdf7201/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f652f65642f4f63746f726f6b5f414c7474502e706e67) ![](https://camo.githubusercontent.com/b10070120ce137abdd023b3b403c80d41bd657c6/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f382f38612f507572706c6557697a7a726f6265414c7474502e706e67) ![](https://camo.githubusercontent.com/770a9b8946d7ef4a64e315a3d5b858299c3de243/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f312f31372f526564526f636b6c6f707377616c6b2e706e67)
 [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Enemies)
 
  **Final Boss**  
@@ -29,21 +27,16 @@ To make an ending with a twist, we decided thah Zelda would be the boss.
 She have three phases with different attacks on each one.
 
 ![](https://i.gyazo.com/2f9a8e195e30e3b94f313478d3d07038.gif)
-
 [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Final-Boss)
 
  **Level design**  
 
 I have made and documented a new level design for the game, adapting it correctly to the gameplay to control the game flow.
-
 [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Level-design)
 
  **Narrative**  
 
 The core of this game is the gameplay, but there is a story behind to produce the correct cohesion, making the game more solid and set new goals to the player.
-
-
-
 [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki)
 
 # Programming
