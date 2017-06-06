@@ -26,7 +26,7 @@ There are six types of enemies units. Each one with different characteristics. [
 To make an ending with a twist, we decided thah Zelda would be the boss.
 She have three phases with different attacks on each one. [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Final-Boss).
 
-![](https://i.gyazo.com/2f9a8e195e30e3b94f313478d3d07038.gif)
+![](https://i.gyazo.com/2f9a8e195e30e3b94f313478d3d07038.gif)![](https://i.gyazo.com/a0752557c897222338dec3450ab8adcd.gif)
 
 
 # Level design 
