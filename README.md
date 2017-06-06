@@ -7,7 +7,7 @@ I have worked as a multidisciplinar member making the entire game design, progra
 
 # Game Design
 
- **Gameplay**  
+ ## Gameplay  
 
 Taking hack and slash and adventure's games as a reference, We've decided to make a frenetic combat gameplay with exploration elements like items and new abilities.
 
