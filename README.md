@@ -10,7 +10,7 @@ I have worked as a multidisciplinar member making the entire game design, progra
   
 # Gameplay  
 
-Taking hack and slash and adventure's games as a reference, We've decided to make a frenetic combat gameplay with exploration elements like items and new abilities. [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Game-Design-Document) and [items details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Items).
+Taking hack and slash and adventure's games as a reference, We've decided to make a frenetic combat gameplay with exploration elements like items and new abilities. See more [gameplay details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Game-Design-Document) and [items details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Items).
 
 ![](https://i.gyazo.com/ccc1d9cd44c9eca09564c451fbbd5634.png)
 
