@@ -5,9 +5,9 @@
 Hi! my name is Fran Ruiz Gimenez and I am the game designer of DuckDev on our project [A Link between ages](https://github.com/carcasanchez/ALinkBetweenAges/wiki).
 I have worked as a multidisciplinar member making the entire game design, programming and helping the team with the art and his integration on the game.
 
-# **Game Design**
+# **Game Design**  
 
-
+  
 # Gameplay  
 
 Taking hack and slash and adventure's games as a reference, We've decided to make a frenetic combat gameplay with exploration elements like items and new abilities. [Items details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Items).
@@ -20,7 +20,6 @@ Taking hack and slash and adventure's games as a reference, We've decided to mak
 There are six types of enemies units. Each one with different characteristics. [More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki/Enemies).
 
 ![](https://camo.githubusercontent.com/00cef5de9457b558bffc225bf7fb5b7268f8e940/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f652f65312f426c756554656b74697465414c7474502e706e67) ![](https://camo.githubusercontent.com/eae02df7ffc6cb9c7b73db76f6915b64bfdf7201/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f652f65642f4f63746f726f6b5f414c7474502e706e67) ![](https://camo.githubusercontent.com/b10070120ce137abdd023b3b403c80d41bd657c6/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f382f38612f507572706c6557697a7a726f6265414c7474502e706e67) ![](https://camo.githubusercontent.com/770a9b8946d7ef4a64e315a3d5b858299c3de243/68747470733a2f2f7a656c646177696b692e6f72672f696d616765732f312f31372f526564526f636b6c6f707377616c6b2e706e67)
-
 
 # Final Boss  
 
@@ -38,9 +37,10 @@ I have made and documented a new level design for the game, adapting it correctl
 # Narrative  
 
 The core of this game is the gameplay, but there is a story behind to produce the correct cohesion, making the game more solid and set new goals to the player.
-[More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki)
+[More details](https://github.com/carcasanchez/ALinkBetweenAges/wiki)  
 
-# **Programming**
+
+# **Programming**  
 
 
 # Dialogue manager  
@@ -53,7 +53,7 @@ Also I made a research about dialogues on videogames and how to program it, you 
 
 # Shop system  
 
-I've integrated a simple shop system where player can buy objects interacting with it.
+I've integrated a simple shop system where player can buy objects interacting with them.
 
 ![](https://i.gyazo.com/cc6bc70aaa8c712f6785077f46081b2c.png)
 
@@ -63,9 +63,10 @@ Life potions, stamina potions, bow and arrow item drops also been my task.
 
 Bombs item integration too, including his functionality.
 
-![](https://i.gyazo.com/20bc4c8478d2bfbbcaf4f425b21500e8.gif)
+![](https://i.gyazo.com/20bc4c8478d2bfbbcaf4f425b21500e8.gif)  
 
-# **Art**
+
+# **Art**  
 
 
 # Sprites 
@@ -77,6 +78,8 @@ I have performed the NPCs sprites, bomb and explosion sprites and the enemies de
 # Boss room  
 
 Where first phase takes place. Made with Tiled.
+
+![](https://i.gyazo.com/b9541bafc812188d82881d8c8c90f0a4.png)
 
 # Art polish  
 
