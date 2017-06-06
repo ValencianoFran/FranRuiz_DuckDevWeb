@@ -3,7 +3,7 @@
 ![](https://i.gyazo.com/eb42e63ba403564d964919e1b6eb4b90.png)
 
 Hi! my name is Fran Ruiz Gimenez and I am the game designer of DuckDev on our project [A Link between ages](https://github.com/carcasanchez/ALinkBetweenAges/wiki).
-I have worked as a multidisciplinar member making the entire game design, programming and helping the team with the art and his integration on the game.
+I have worked as a multidisciplinar member making the entire game design, programming and helping the team with the art and his integration in the game.
 
 # **Game Design**  
 
@@ -45,7 +45,7 @@ The core of this game is the gameplay, but there is a story behind to produce th
 
 # Dialogue manager  
 
-I´ve made a non-branching dialogue system to create dialogues on the game. There is no interaction with the NPC but if you talk with him twice will change his dialogue.
+I have made a non-branching dialogue system to create dialogues on the game. There is no interaction with the NPC but if you talk with him twice will change his dialogue.
 
 ![](https://i.gyazo.com/96ba51e445f483a10fd856c38cfb9075.gif)
 
@@ -53,15 +53,14 @@ Also I made a research about dialogues on videogames and how to program it, you 
 
 # Shop system  
 
-I've integrated a simple shop system where player can buy objects interacting with them.
+I have integrated a simple shop system where player can buy objects interacting with them.
 
 ![](https://i.gyazo.com/cc6bc70aaa8c712f6785077f46081b2c.png)
 
 # Implement items  
 
 Life potions, stamina potions, bow and arrow item drops also been my task.
-
-Bombs item integration too, including his functionality.
+Bombs item integration too, including his gameplay functionality.
 
 ![](https://i.gyazo.com/20bc4c8478d2bfbbcaf4f425b21500e8.gif)  
 
@@ -71,7 +70,7 @@ Bombs item integration too, including his functionality.
 
 # Sprites 
 
-I have performed the NPCs sprites, bomb and explosion sprites and the enemies dead sprites.
+I have performed some NPC's sprites, bomb, explosion sprites and the enemies dead sprites.
 
 ![](https://i.gyazo.com/eaf8f668edaeed6beaa803320d26ca88.gif)
 
